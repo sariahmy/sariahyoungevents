@@ -1,0 +1,43 @@
+
+/*mystyles*/
+.htext {
+    color: rgb(199, 192, 160);}
+
+.namefont {
+    font-family:garamond;}
+
+#mainNav {
+    background-color: rgb(199, 192, 160);}
+
+.sectionbg {
+    background-color: rgb(243, 243, 232);}
+
+body {
+    background-image:url("../images/bg.jpg");
+    background-attachment: fixed;
+    background-position: right top;
+    
+    background-size: cover;}
+
+.button {
+    color: #000;
+    background-color: rgb(211, 203, 168);
+    border-color: rgb(211, 203, 168);}
+
+.button:hover {
+    color: #000;
+    background-color: rgb(199, 192, 160);
+    border-color: rgb(199, 192, 160);}
+
+a {
+    color: rgb(211, 203, 168);
+    text-decoration: underline;}
+
+a:hover {
+    color: rgb(199, 192, 160);}
+
+.mom{
+    height: 200px;}
+
+.left{
+    text-align: left;}
