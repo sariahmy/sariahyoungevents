@@ -1,0 +1,90 @@
+.center{
+    text-align: center;}
+
+.top{
+    padding-top: 55px}
+
+.htext {
+    color: rgb(199, 192, 160);}
+
+.cap{
+    text-transform: uppercase;}
+
+.wedfont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100; 
+    font-size: 75px;
+    padding-bottom: 40px;}
+
+.navbar{
+    top: 270px;
+    position: absolute;
+    right: 0px;
+    left: 0px;}
+
+.navigation{
+    top: 300px;
+    padding-bottom: 17px;
+    padding-top: 17px;
+    height: 60px;
+    background-color: rgb(199, 192, 160);}
+
+.linktext{
+    color: rgb(97, 95, 95);
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;}
+
+.noul{
+    text-decoration: none;}
+
+.indent{
+    text-indent: 60px;}
+
+.absolute{
+    position: absolute;}
+
+.linkpad{
+    top: 800px;}
+
+.mainbody{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 2000;}
+
+.small{
+    font-size: 0.875em}
+
+.footer{
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    height: 70px;
+    background-color: rgb(243, 243, 232);
+    position: fixed;}
+
+.foottext{
+    color:rgb(97, 95, 95);
+    padding-top: 15px;}
+
+
+/* copied from my custom styles*/
+.htext {
+    color: rgb(199, 192, 160);}
+
+.namefont {
+    font-family:garamond;}
+
+#mainNav {
+    background-color: rgb(199, 192, 160);}
+
+.sectionbg {
+    background-color: rgb(243, 243, 232);}
+
+body {
+    background-image:url("../images/bg.jpg");
+    background-attachment: fixed;
+    background-position: right top;
+    
+    background-size: cover;}
